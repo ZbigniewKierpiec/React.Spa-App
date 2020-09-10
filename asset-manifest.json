@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React.Spa-App/static/css/main.90a463da.chunk.css",
+    "main.js": "/React.Spa-App/static/js/main.31e190cb.chunk.js",
+    "main.js.map": "/React.Spa-App/static/js/main.31e190cb.chunk.js.map",
+    "runtime-main.js": "/React.Spa-App/static/js/runtime-main.d776dd20.js",
+    "runtime-main.js.map": "/React.Spa-App/static/js/runtime-main.d776dd20.js.map",
+    "static/js/2.83e24dfa.chunk.js": "/React.Spa-App/static/js/2.83e24dfa.chunk.js",
+    "static/js/2.83e24dfa.chunk.js.map": "/React.Spa-App/static/js/2.83e24dfa.chunk.js.map",
+    "index.html": "/React.Spa-App/index.html",
+    "precache-manifest.802c5a5b7ae19a1e9a69849f7467f6c0.js": "/React.Spa-App/precache-manifest.802c5a5b7ae19a1e9a69849f7467f6c0.js",
+    "service-worker.js": "/React.Spa-App/service-worker.js",
+    "static/css/main.90a463da.chunk.css.map": "/React.Spa-App/static/css/main.90a463da.chunk.css.map",
+    "static/js/2.83e24dfa.chunk.js.LICENSE.txt": "/React.Spa-App/static/js/2.83e24dfa.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/React.Spa-App/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/React.Spa-App/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/React.Spa-App/static/media/header3.d9d36b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d776dd20.js",
+    "static/js/2.83e24dfa.chunk.js",
+    "static/css/main.90a463da.chunk.css",
+    "static/js/main.31e190cb.chunk.js"
+  ]
+}
